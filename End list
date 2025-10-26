@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chef Enred - Recetas Fáciles y Libros de Cocina</title>
+    <link rel="stylesheet" href="styles.css"> 
+</head>
+<body>
+    
+    <section class="hero-section">
+        <div class="hero-content">
+            <h1>Cocina Rápido, Come Mejor.</h1>
+            <p>Descubre cientos de recetas sencillas para disfrutar sin complicaciones.</p>
+            <a href="#recetas-destacadas" class="cta-button">Ver la Última Receta</a>
+        </div>
+    </section>
+    
+    <section class="recipes-section" id="recetas-destacadas">
+        <h2>Nuestras Recetas Más Populares</h2>
+        
+        <div class="recipe-grid">
+            <div class="recipe-card">
+                <img src="URL_IMAGEN_RECETA_1.jpg" alt="Pasta Rápida con Tomate" class="recipe-image">
+                <div class="card-content">
+                    <h3>Pasta Rápida con Tomate</h3>
+                    <div class="recipe-info">
+                        <span class="info-tag time">🕒 20 min</span>
+                        <span class="info-tag difficulty">⭐ Fácil</span>
+                        <span class="info-tag category">🍝 Cena Rápida</span>
+                    </div>
+                    <a href="enlace-a-receta-1.html" class="recipe-link">Ver Receta</a>
+                </div>
+            </div>
+            <div class="recipe-card">
+                <img src="URL_IMAGEN_RECETA_2.jpg" alt="Pollo Asado Rápido" class="recipe-image">
+                <div class="card-content">
+                    <h3>Pollo Asado Rápido</h3>
+                    <div class="recipe-info">
+                        <span class="info-tag time">🕒 45 min</span>
+                        <span class="info-tag difficulty">⭐ Fácil</span>
+                        <span class="info-tag category">🍗 Plato Fuerte</span>
+                    </div>
+                    <a href="enlace-a-receta-2.html" class="recipe-link">Ver Receta</a>
+                </div>
+            </div>
+            <div class="recipe-card">
+                <img src="URL_IMAGEN_RECETA_3.jpg" alt="Postre de Chocolate sin Horno" class="recipe-image">
+                <div class="card-content">
+                    <h3>Postre de Chocolate sin Horno</h3>
+                    <div class="recipe-info">
+                        <span class="info-tag time">🕒 15 min</span>
+                        <span class="info-tag difficulty">⭐ Fácil</span>
+                        <span class="info-tag category">🍰 Postre</span>
+                    </div>
+                    <a href="enlace-a-receta-3.html" class="recipe-link">Ver Receta</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="store-promo-section">
+        <div class="store-content">
+            <h2>Deja de buscar, Empieza a Cocinar.</h2>
+            <h3>Tu colección definitiva de Recetas Fáciles.</h3>
+            
+            <ul class="benefit-list">
+                <li>⏰ ¡Cocina en 30 Minutos o Menos! Soluciones rápidas para tu día a día sin sacrificar sabor ni calidad.</li>
+                <li>💰 Ingredientes Inteligentes. Recetas con 5-7 ingredientes comunes para reducir tu factura de supermercado.</li>
+                <li>⭐ Nivel Principiante Garantizado. Instrucciones claras paso a paso que eliminan la frustración de la cocina.</li>
+            </ul>
+            
+            <a href="URL_A_TU_TIENDA_DE_LIBROS" class="store-cta-button">Ver Libros y Comprar Ahora</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Chef Enred. Todos los derechos reservados. | <a href="#">Política de Privacidad</a></p>
+    </footer>
+
+</body>
+</html>
+confirmar html
